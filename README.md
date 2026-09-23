@@ -2,4 +2,4 @@
   <img src="mintvaulty.png" alt="Logo">
 </p>
 
-# MintVaulty
+<h1 align="center">MintVault</h1>
