@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img src="mintvaulty.png" alt="MintVaulty" width="400">
+  <img src="mintvaulty.png" alt="MintVaulty" width="300">
   <br>
   <h1 align="center">MintVaulty</h1>
   <div align="center">
