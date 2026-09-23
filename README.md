@@ -7,7 +7,9 @@
       <span style="font-size:22px;">Secure Passwords. Zero Telemetry.</span>
   </div>
   <br><br>
-  <a href="https://youtube.com">Install</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://google.com">Documentation</a>
+  <div align="center">
+    <a href="https://youtube.com">Install</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="https://google.com">Documentation</a>
+  </div>
 </p>
