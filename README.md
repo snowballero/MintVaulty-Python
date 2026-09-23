@@ -21,8 +21,7 @@ MintVaulty is a cryptographically secure password generator. It runs offline, ha
 <h1>Usage</h1>
 
 Generate a password:
-<h2>Amount of letters: [input, e.g 8]</h2>
-<br>
-<h2>Amount of numbers: [input, e.g 4]</h2>
-<h2>Amount of symbols: [input, e.g 2]</h2>
+<h3>Amount of letters: [input, e.g 8]</h3>
+<h3>Amount of numbers: [input, e.g 4]</h3>
+<h3>Amount of symbols: [input, e.g 2]</h3>
 The program will then ask you to save, which you can reply with y(Y) to continue saving, or n(N) to exit.
