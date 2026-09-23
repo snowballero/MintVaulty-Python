@@ -27,4 +27,5 @@ Generate a password:
 <h3>The program will then ask you to save, which you can reply with y(Y) to continue saving, or n(N) to exit.</h3>
 
 EXAMPLE:
+<br>
 <img src=usage.png>
