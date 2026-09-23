@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="mintvaulty.png" alt="Logo">
+  <br>
+  <img src="mintvaulty.png" alt="MintVaulty" width="200">
+  <br>
+  <h1 align="center">MintVaulty</h1>
+  <span>Secure Passwords. Zero Telemetry.</span>
+  <br><br>
+  <a href="https://youtube.com">Install</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://google.com">Documentation</a>
 </p>
-<h1 align="center">MintVaulty</h1>
-<h1 align="center">Secure Passwords , No Telemetry.</h1>
-<div align="center">
-  <a href="youtube.com">Install</a>
-</div>
