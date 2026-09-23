@@ -3,7 +3,9 @@
   <img src="mintvaulty.png" alt="MintVaulty" width="200">
   <br>
   <h1 align="center">MintVaulty</h1>
-  <span>Secure Passwords. Zero Telemetry.</span>
+  <div align="center">
+      <span>Secure Passwords. Zero Telemetry.</span>
+  </div>
   <br><br>
   <a href="https://youtube.com">Install</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
