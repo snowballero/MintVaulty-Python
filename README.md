@@ -10,7 +10,7 @@
   <div align="center">
     <a href="https://github.com/snowballero/MintVaulty-Python/releases/">Install</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="https://google.com">Usage</a>
+    <a href="#usage">Usage</a>
     <a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</a>
     <a href="https://github.com/snowballero/MintVaulty-Python/blob/main/LICENSE">License</a>
   </div>
@@ -20,7 +20,7 @@
 MintVaulty is a cryptographically secure password generator. It runs offline, has no telemetry and doesn't steal any personal information. I designed it to be open-source, so that everyone can view the code.<br>
 Worth noticing: For now , the passwords are stored in plain .txt , this will improve later on.
 
-<h1>Usage</h1>
+<h1 id="usage">Usage</h1>
 
 Generate a password:
 <h3>Amount of letters: [input, e.g 8]</h3>
