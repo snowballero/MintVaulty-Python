@@ -8,7 +8,7 @@
   </div>
   <br><br>
   <div align="center">
-    <a href="https://youtube.com">Install</a>
+    <a href="https://github.com/snowballero/MintVaulty-Python/releases/">Install</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="https://google.com">Documentation</a>
   </div>
