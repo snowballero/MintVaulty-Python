@@ -13,3 +13,6 @@
     <a href="https://google.com">Documentation</a>
   </div>
 </p>
+
+<h1>What is MintVault?</h1>
+uhh placeholder for now
