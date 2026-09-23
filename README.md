@@ -1,1 +1,2 @@
-# MintVaulty-Python
+![Logo](mintvaulty.png)
+# MintVaulty
