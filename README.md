@@ -11,6 +11,7 @@
     <a href="https://github.com/snowballero/MintVaulty-Python/releases/">Install</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="https://google.com">Usage</a>
+    <a href="https://github.com/snowballero/MintVaulty-Python/blob/main/LICENSE">License</a>
   </div>
 </p>
 
@@ -26,6 +27,8 @@ Generate a password:
 <h3>Amount of symbols: [input, e.g 2]</h3>
 <h3>The program will then ask you to save, which you can reply with y(Y) to continue saving, or n(N) to exit.</h3>
 
-EXAMPLE:
+<h2>EXAMPLE:</h2>
 <br>
 <img src=usage.png>
+<br>
+After saving the file , it will be located in your current directory.
