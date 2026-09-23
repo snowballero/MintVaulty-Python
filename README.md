@@ -14,5 +14,5 @@
   </div>
 </p>
 
-<h1>What is MintVault?</h1>
-uhh placeholder for now
+<h1>What is MintVaulty?</h1>
+MintVaulty is a cryptographically secure password generator. It runs offline, has no telemetry and doesn't steal any personal information. I designed it to be open-source, so that everyone can view the code.
