@@ -11,7 +11,7 @@
     <a href="https://github.com/snowballero/MintVaulty-Python/releases/">Install</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="https://google.com">Usage</a>
-    <a>nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</a>
+    <a>nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;</a>
     <a href="https://github.com/snowballero/MintVaulty-Python/blob/main/LICENSE">License</a>
   </div>
 </p>
