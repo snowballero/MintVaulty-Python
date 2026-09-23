@@ -24,4 +24,7 @@ Generate a password:
 <h3>Amount of letters: [input, e.g 8]</h3>
 <h3>Amount of numbers: [input, e.g 4]</h3>
 <h3>Amount of symbols: [input, e.g 2]</h3>
-The program will then ask you to save, which you can reply with y(Y) to continue saving, or n(N) to exit.
+<h3>The program will then ask you to save, which you can reply with y(Y) to continue saving, or n(N) to exit.</h3>
+
+EXAMPLE:
+<img src=usage.png>
