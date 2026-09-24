@@ -20,6 +20,34 @@
 MintVaulty is a cryptographically secure password generator. It runs offline, has no telemetry and doesn't steal any personal information. I designed it to be open-source, so that everyone can view the code.<br>
 Worth noticing: For now , the passwords are stored in plain .txt , this will improve later on.
 
+<h1 id="Install">Installation</h1>
+1. Clone the repo
+```bash
+git clone https://github.com/snowballero/mintvaulty-python
+```
+2. Change directory to it
+```bash
+cd mintvaulty-python
+```
+3. Execute the file
+[*] Windows
+```bash
+python mintvaulty.py
+```
+[*] Linux / macOS
+```bash
+python3 mintvaulty.py
+```
+3.1 Or all in one command..?
+Linux / macOS
+```bash
+git clone https://github.com/snowballero/mintvaulty-python && cd mintvaulty-python && python3 mintvaulty.py
+```
+Windows
+```bash
+git clone https://github.com/snowballero/mintvaulty-python; cd mintvaulty-python; python mintvaulty.py
+```
+
 <h1 id="usage">Usage</h1>
 
 Generate a password:
