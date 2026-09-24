@@ -22,6 +22,7 @@ Worth noticing: For now , the passwords are stored in plain .txt , this will imp
 
 <h1 id="Install">Installation</h1>
 <h3>1. Clone the repo</h3>
+
   ```bash
     git clone https://github.com/snowballero/mintvaulty-python
   ```
