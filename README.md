@@ -34,8 +34,6 @@ cd mintvaulty-python
 ```
 
 <h3>1.2 Execute the file</h3>
-<br>
-<br>
     <h3>[*] Windows</h3>
 
   ```bash
