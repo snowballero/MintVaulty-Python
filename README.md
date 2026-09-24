@@ -8,7 +8,7 @@
   </div>
   <br><br>
   <div align="center">
-    <a href="https://github.com/snowballero/MintVaulty-Python/releases/">Install</a>
+    <a href="#Install">Install</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#usage">Usage</a>
     <a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</a>
@@ -60,6 +60,8 @@ cd mintvaulty-python
     git clone https://github.com/snowballero/mintvaulty-python; cd mintvaulty-python; python mintvaulty.py
   ```
 
+<h1>Install through release</h1>
+![Release](https://img.shields.io/github/v/release/snowballero/mintvaulty-python?style=flat)
 <h1 id="usage">Usage</h1>
 
 Generate a password:
