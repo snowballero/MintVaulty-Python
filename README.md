@@ -36,32 +36,32 @@ cd mintvaulty-python
 <h3>1.2 Execute the file</h3>
 <br>
 <br>
-    [*] Windows
+    <h3>[*] Windows</h3>
 
   ```bash
     python mintvaulty.py
   ```
     
-  [*] Linux / macOS
+  <h3>[*] Linux / macOS</h3>
 
   ```bash
     python3 mintvaulty.py
   ```
 <br>
 <h3>2. Or all in one command..?</h3>
-    Linux / macOS
+    [*] Linux / macOS
     
   ```bash
     git clone https://github.com/snowballero/mintvaulty-python && cd mintvaulty-python && python3 mintvaulty.py
   ```
     
-  Windows
+  [*] Windows
   ```bash
     git clone https://github.com/snowballero/mintvaulty-python; cd mintvaulty-python; python mintvaulty.py
   ```
 
 ## Install through release
->> ![Release](https://img.shields.io/github/v/release/snowballero/mintvaulty-python?style=flat) <<
+![Release](https://img.shields.io/github/v/release/snowballero/mintvaulty-python?style=flat) <<
 <h1 id="usage">Usage</h1>
 
 Generate a password:
