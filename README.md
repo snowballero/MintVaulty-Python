@@ -57,7 +57,9 @@ cd mintvaulty-python
   ```
 
 ## Install through release
+<a href="https://github.com/snowballero/mintvaulty-python/releases/latest">
 <img src="https://img.shields.io/github/v/release/snowballero/mintvaulty-python?style=flat" width="100">
+</a>
 <h1 id="usage">Usage</h1>
 
 Generate a password:
