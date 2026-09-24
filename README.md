@@ -4,7 +4,7 @@
   <br>
   <h1 align="center">MintVaulty</h1>
   <div align="center">
-      <span style="font-size:22px;">Secure Passwords. Zero Telemetry.</span>
+      <span style="font-size:22px;">Strong passwords. No sugarcoating.</span>
   </div>
   <br><br>
   <div align="center">
