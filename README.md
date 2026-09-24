@@ -22,13 +22,18 @@ Worth noticing: For now , the passwords are stored in plain .txt , this will imp
 
 <h1 id="Install">Installation</h1>
 1. Clone the repo
-```bash
-git clone https://github.com/snowballero/mintvaulty-python
+
+  ```bash
+    git clone https://github.com/snowballero/mintvaulty-python
+  ```
 
 2. Change directory to it
-cd mintvaulty-python
 
-3. Execute the file
+```bash
+cd mintvaulty-python
+```
+
+4. Execute the file
 <br>
     [*] Windows
 
