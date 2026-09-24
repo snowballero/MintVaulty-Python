@@ -29,15 +29,17 @@ git clone https://github.com/snowballero/mintvaulty-python
 cd mintvaulty-python
 
 3. Execute the file
+<br>
 [*] Windows
 
     ```bash
     python mintvaulty.py
     ```
-
 [*] Linux / macOS
 
-python3 mintvaulty.py
+    ```bash
+    python3 mintvaulty.py
+    ```
 
 3.1 Or all in one command..?
 Linux / macOS
