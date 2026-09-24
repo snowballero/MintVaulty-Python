@@ -27,27 +27,27 @@ Worth noticing: For now , the passwords are stored in plain .txt , this will imp
     git clone https://github.com/snowballero/mintvaulty-python
   ```
 
-2. Change directory to it
+1.1 Change directory to it
 
 ```bash
 cd mintvaulty-python
 ```
 
-3. Execute the file
+1.2 Execute the file
 <br>
     [*] Windows
 
-    ```bash
+  ```bash
     python mintvaulty.py
-    ```
+  ```
     
-    [*] Linux / macOS
+  [*] Linux / macOS
 
-    ```bash
+  ```bash
     python3 mintvaulty.py
-    ```
+  ```
 
-3.1 Or all in one command..?
+2. Or all in one command..?
     Linux / macOS
     
   ```bash
