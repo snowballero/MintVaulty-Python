@@ -17,8 +17,8 @@
 </p>
 
 <h1>What is MintVaulty?</h1>
-<h3>MintVaulty is a cryptographically secure password generator. It runs offline, has no telemetry and doesn't steal any personal information. I designed it to be open-source, so that everyone can view the code.</h3><br><br>
-Worth noticing: For now , the passwords are stored in plain .txt , this will improve later on.
+<h3>MintVaulty is a cryptographically secure password generator. It runs offline, has no telemetry and doesn't steal any personal information. I designed it to be open-source, so that everyone can view the code.</h3><br>
+! Worth noticing: For now , the passwords are stored in plain .txt , this will improve later on.
 
 <h1 id="Install">Installation</h1>
 <h3>1. Clone the repo</h3>
