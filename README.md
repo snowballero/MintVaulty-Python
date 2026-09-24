@@ -33,7 +33,7 @@ Worth noticing: For now , the passwords are stored in plain .txt , this will imp
 cd mintvaulty-python
 ```
 
-4. Execute the file
+3. Execute the file
 <br>
     [*] Windows
 
@@ -50,14 +50,14 @@ cd mintvaulty-python
 3.1 Or all in one command..?
     Linux / macOS
     
-    ```bash
+  ```bash
     git clone https://github.com/snowballero/mintvaulty-python && cd mintvaulty-python && python3 mintvaulty.py
-    ```
+  ```
     
-    Windows
-    ```bash
+  Windows
+  ```bash
     git clone https://github.com/snowballero/mintvaulty-python; cd mintvaulty-python; python mintvaulty.py
-    ```
+  ```
 
 <h1 id="usage">Usage</h1>
 
