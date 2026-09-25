@@ -45,13 +45,13 @@ python3 mintvaulty.py
   ```
 <br>
 <h3>2. Or all in one command..?</h3>
-    [*] Linux / macOS
+    <h3>[*] Linux / macOS</h3>
     
   ```bash
 git clone https://github.com/snowballero/mintvaulty-python && cd mintvaulty-python && python3 mintvaulty.py
   ```
     
-  [*] Windows
+  <h3>[*] Windows</h3>
   ```bash
 git clone https://github.com/snowballero/mintvaulty-python; cd mintvaulty-python; python mintvaulty.py
   ```
