@@ -22,7 +22,7 @@
 <h3>1. Clone the repo</h3>
 
   ```bash
-    git clone https://github.com/snowballero/mintvaulty-python
+git clone https://github.com/snowballero/mintvaulty-python
   ```
 
 <h3>1.1 Change directory to it</h3>
@@ -35,25 +35,25 @@ cd mintvaulty-python
     <h3>[*] Windows</h3>
 
   ```bash
-    python mintvaulty.py
+python mintvaulty.py
   ```
     
   <h3>[*] Linux / macOS</h3>
 
   ```bash
-    python3 mintvaulty.py
+python3 mintvaulty.py
   ```
 <br>
 <h3>2. Or all in one command..?</h3>
     [*] Linux / macOS
     
   ```bash
-    git clone https://github.com/snowballero/mintvaulty-python && cd mintvaulty-python && python3 mintvaulty.py
+git clone https://github.com/snowballero/mintvaulty-python && cd mintvaulty-python && python3 mintvaulty.py
   ```
     
   [*] Windows
   ```bash
-    git clone https://github.com/snowballero/mintvaulty-python; cd mintvaulty-python; python mintvaulty.py
+git clone https://github.com/snowballero/mintvaulty-python; cd mintvaulty-python; python mintvaulty.py
   ```
 
 ## Install through release
