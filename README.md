@@ -74,5 +74,5 @@ Generate a password:
 <br>
 <img src=usage.png>
 <br>
-For version 2.1.0 and higher , the fill will be located in the /MINTS folder , in your current directory.
-For version 1.0.0, the file will be located in your directory, without a folder.
+Your passwords are stored in /MINTS , which is usually generated after you run the program. This only applies for versions 2.1.0 and higher.<br>
+For 2.0.0 and lower, passwords are stored in the current directory, with no special folder.
