@@ -52,9 +52,10 @@ git clone https://github.com/snowballero/mintvaulty-python && cd mintvaulty-pyth
   ```
     
   <h3>[*] Windows</h3>
+  
   ```bash
-  git clone
-https://github.com/snowballero/mintvaulty-    python; cd mintvaulty-python; python.    mintvaulty.py
+git clone
+https://github.com/snowballero/mintvaulty-python; cd mintvaulty-python; python.    mintvaulty.py
   ```
 
 ## Install through release
