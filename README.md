@@ -74,5 +74,5 @@ Generate a password:
 <br>
 <img src=usage.png>
 <br>
-Your passwords are stored in /MINTS , which is usually generated after you run the program. This only applies for versions 2.1.0 and higher.<br>
+Your passwords are stored in /MINTS , which is usually generated after you run the program.<br>This only applies for versions 2.1.0 and higher.<br><br>
 For 2.0.0 and lower, passwords are stored in the current directory, with no special folder.
