@@ -74,4 +74,5 @@ Generate a password:
 <br>
 <img src=usage.png>
 <br>
-After saving the file , it will be located in your current directory.
+For version 2.1.0 and higher , the fill will be located in the /MINTS folder , in your current directory.
+For version 1.0.0, the file will be located in your directory, without a folder.
